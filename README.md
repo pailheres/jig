@@ -104,8 +104,8 @@ Pour interface JIG-MODA multi-protocol, il va falloir trouver une maniere de ger
 
 ## fdgdgfdg
 ```
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
-<details> 
+![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>)
+<details>
 <summary></summary>
 custom_mark10
   digraph G {
@@ -127,5 +127,5 @@ custom_mark10
 </details>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMjkyNTMzLDcwNzg1Mjc5MF19
+eyJoaXN0b3J5IjpbLTExMzg4MjIzMDgsNzA3ODUyNzkwXX0=
 -->

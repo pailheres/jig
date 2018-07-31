@@ -70,3 +70,6 @@ Je crois que ca vaut la peine pour avoir un seul interface de comm entre HTP et 
 
 ## Interface MODA multiple protocol
 Pour interface JIG-MODA multi-protocol, il va falloir trouver une maniere de gerer chacune des stack de communication de maniere decouplé du reste du code de la JIG. Il est peut-etre mieux de faire une load de JIG par protocol, et programmer la JIG (ou checker load actuelle) selon le protocol requis par le MODA.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzA3ODUyNzkwXX0=
+-->

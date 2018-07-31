@@ -103,7 +103,6 @@ Pour interface JIG-MODA multi-protocol, il va falloir trouver une maniere de ger
 
 
 ## fdgdgfdg
-```
 ![Alt text](https://g.gravizo.com/source/<custom_mark>?<url_source_url_encoded>)
 <details>
 <summary></summary>
@@ -125,7 +124,7 @@ custom_mark10
   }
 custom_mark10
 </details>
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg4MjIzMDgsNzA3ODUyNzkwXX0=
+eyJoaXN0b3J5IjpbMTc3NzE4NjEwNiwtMTEzODgyMjMwOCw3MD
+c4NTI3OTBdfQ==
 -->

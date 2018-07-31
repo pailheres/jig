@@ -6,7 +6,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Files
 
-- StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+- r2Pca0010.cpp : Beaucoup de repetitions et redondance
 
 ## Create files and folders
 
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTg4MzUyNV19
+eyJoaXN0b3J5IjpbLTExMTE1MDc2NDddfQ==
 -->
